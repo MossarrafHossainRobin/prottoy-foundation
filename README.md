@@ -74,26 +74,26 @@
 
 <div>
   <h2>📁 Project Structure</h2>
-  <pre>
+  <pre style="font-family: monospace;">
 prottoy-foundation/
-├── add_donation.php        # Add donation record form & processing
-├── add_expense.php         # Add expense record form & processing
-├── admin_dashboard.php     # Admin control panel
-├── announcements.php       # Manage and view announcements
-├── app.js                  # Frontend JavaScript utilities
-├── db.php                  # Database connection script
-├── forgot_password.php     # Password reset request
-├── index.php               # Landing page / login
-├── login.php               # Login processing
-├── logout.php              # Logout script
-├── register.php            # User registration form
-├── reset_password.php      # Password reset form
-├── transaction.php         # Manage donations and expenses transactions
-├── user_dashboard.php      # User dashboard panel
-├── verify_otp.php          # OTP verification script
-├── view_donations.php      # List of donations
-├── view_expenses.php       # List of expenses
-└── README.md               # This documentation file
+├── <a href="add_donation.php">add_donation.php</a>        # Add donation record form & processing
+├── <a href="add_expense.php">add_expense.php</a>         # Add expense record form & processing
+├── <a href="admin_dashboard.php">admin_dashboard.php</a>     # Admin control panel
+├── <a href="announcements.php">announcements.php</a>       # Manage and view announcements
+├── <a href="app.js">app.js</a>                  # Frontend JavaScript utilities
+├── <a href="db.php">db.php</a>                  # Database connection script
+├── <a href="forgot_password.php">forgot_password.php</a>      # Password reset request
+├── <a href="index.php">index.php</a>               # Landing page / login
+├── <a href="login.php">login.php</a>               # Login processing
+├── <a href="logout.php">logout.php</a>              # Logout script
+├── <a href="register.php">register.php</a>            # User registration form
+├── <a href="reset_password.php">reset_password.php</a>      # Password reset form
+├── <a href="transaction.php">transaction.php</a>         # Manage donations and expenses transactions
+├── <a href="user_dashboard.php">user_dashboard.php</a>      # User dashboard panel
+├── <a href="verify_otp.php">verify_otp.php</a>          # OTP verification script
+├── <a href="view_donations.php">view_donations.php</a>      # List of donations
+├── <a href="view_expenses.php">view_expenses.php</a>       # List of expenses
+└── <a href="README.md">README.md</a>               # This documentation file
   </pre>
 </div>
 
